@@ -14,7 +14,8 @@ Install `win10toast` using the command below. This is required to use the `callb
 pip install -e git+https://github.com/Charnelx/Windows-10-Toast-Notifications.git#egg=win10toast
 ```
 
-Change the `target_price` and `frequency_seconds` as desired. 
+Change the `target_price` and `frequency_seconds` in `script.py` as desired. 
 - `target_price` is self-explanatory
 - `frequency_seconds` is the time interval between scans, in seconds.
 
+And you're ready to go!
