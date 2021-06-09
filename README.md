@@ -18,4 +18,4 @@ Change the `target_price` and `frequency_seconds` in `script.py` as desired.
 - `target_price` is self-explanatory
 - `frequency_seconds` is the time interval between scans, in seconds.
 
-And you're ready to go!
+And you're ready to go! Run the script, and it will automatically open your browser to the Reddit thread with the target price when such a thread is found.
